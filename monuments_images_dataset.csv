@@ -1,4 +1,4 @@
-Nom_du_monument,Nom_image,Chemin_image
+Nom_du_monument,Nom_image,Chemin_image,Description
 01.Stonehenge,02fe92a9489014fe.jpg,images/01.Stonehenge/02fe92a9489014fe.jpg
 01.Stonehenge,04d1a195c7e6c899.jpg,images/01.Stonehenge/04d1a195c7e6c899.jpg
 01.Stonehenge,0617f09eded2ffd9.jpg,images/01.Stonehenge/0617f09eded2ffd9.jpg
@@ -209,3 +209,4 @@ Nom_du_monument,Nom_image,Chemin_image
 10.Kutubiyya_Mosque,89cb5afc-9bfa-4cd3-8fef-b640f963caa0.jfif,images/10.Kutubiyya_Mosque/89cb5afc-9bfa-4cd3-8fef-b640f963caa0.jfif
 10.Kutubiyya_Mosque,af694cb1-e576-4c08-a10c-bb8f90f1398d.jfif,images/10.Kutubiyya_Mosque/af694cb1-e576-4c08-a10c-bb8f90f1398d.jfif
 10.Kutubiyya_Mosque,d6465863-cacc-48bc-a7d1-740dc7c93cdd.jfif,images/10.Kutubiyya_Mosque/d6465863-cacc-48bc-a7d1-740dc7c93cdd.jfif
+
